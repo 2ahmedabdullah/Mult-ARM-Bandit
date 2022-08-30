@@ -11,5 +11,8 @@ The multi-armed bandit problem is a classic reinforcement learning example where
 ## Approach
 
 Given: 4 Bandits with the success rates (17%, 67%, 82%, 47%) 
+
 Aim: maximize the success rate using a suitable RL Agent
+
 Conclusion: The maximum success rate was achieved by UCB Agent, this was followed by e-Greedy Agent
+
