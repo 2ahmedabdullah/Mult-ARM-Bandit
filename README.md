@@ -1,4 +1,4 @@
-# Mult-ARM-Bandit
+# Multi-ARM-Bandit
 
 ## Overview
 
