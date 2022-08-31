@@ -14,5 +14,15 @@ Given: 4 Bandits with the success rates (17%, 67%, 82%, 47%)
 
 Aim: maximize the success rate using a suitable RL Agent
 
-Conclusion: The maximum success rate was achieved by UCB Agent, this was followed by e-Greedy Agent
 
+## Results
+
+<p align="center">
+   <img src="ucb1.png">
+</p>
+
+<p align="center">
+   <img src="tm2.png">
+</p>
+
+The maximum success rate was achieved by UCB Agent, this was followed by Thompson Sampling.
